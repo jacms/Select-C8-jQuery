@@ -1,4 +1,4 @@
-# select C8 jQuery
+# Select C8 jQuery
 
 SelectC8 es una librería que hace el uso del elemento select más sencillo.
 
