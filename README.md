@@ -46,5 +46,4 @@ let $example4 = $("#example4");
 ```
 
 ## Creditos
-* Concept and development by [jacms](https://github.com/jacms) & [reneezy87](https://github.com/Reneezy87).
-* By ArtisCode
+* Concept and development by [jacms](https://github.com/jacms)
